@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "title": "The Web Awakens – Creating Your First HTML Page",
+    "description": "Build your first HTML page and begin your coding journey.",
+    "theory": "Every adventure begins somewhere. This one begins with your first-ever HTML page. Let's put it together and start your journey on the web!",
+    "starterCode": "<!DOCTYPE html>\n<html>\n<head>\n  <title>My Web Adventure</title>\n</head>\n<body>\n  <h1>The Journey of HTML Begins</h1>\n</body>\n</html>"
+  },
+  {
+    "id": 2,
+    "title": "Speak Loud and Clear – Meet the Headings!",
+    "description": "Learn about headings from <h1> to <h6>.",
+    "theory": "Headings are like signboards on the road. They help you organize your ideas and guide your readers. Time to try out headings from big to small.",
+    "starterCode": "<body>\n  <h1>Main Title</h1>\n  <h2>Subheading Level 1</h2>\n  <h3></h3>\n  <h4></h4>\n  <h6>The smallest whisper of a heading</h6>\n</body>"
+  },
+  {
+  "id": 3,
+  "title": "Square the Number",
+  "description": "Write a program that reads an integer and prints its square.",
+  "language": "python",
+  "starterCode": "print(int(input())**2)"
+}
+
+  
+]
