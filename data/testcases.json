@@ -1,0 +1,22 @@
+[
+  {
+    "exerciseId": 1,
+    "testCases": [
+      { "input": "5\n", "output": "25" },
+      { "input": "3\n", "output": "9" }
+    ]
+  },
+  {
+    "exerciseId": 2,
+    "testCases": [
+      { "input": "2 3\n", "output": "5" }
+    ]
+  },
+  {
+    "exerciseId": 3,
+    "testCases": [
+      { "input": "4\n", "output": "16" },
+      { "input": "7\n", "output": "49" }
+    ]
+  }
+]
